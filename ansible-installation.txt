@@ -1,5 +1,5 @@
 Ansible installation on ec2 user
-
+#RHEL machines
 Open 2 redhat instances:
 
 Master and Slave
